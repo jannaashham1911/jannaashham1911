@@ -2,8 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/physics/electron-orbit.gif" width="200">
 
-<p><em>Physics Student at <a href="https://cu.edu.eg/Home">Cairo University, Faculty of Science</a><img src="https://media.giphy.com/media/LpDQMNgxejhJ6o15cR/giphy.gif" width="30"></br>
-Specializing in Computational & Particle Physics <img src="https://media.giphy.com/media/physics/electron-orbit.gif" width="30"> 
+<p><em>Physics Student at <a href="https://cu.edu.eg/Home">Cairo University, Faculty of Science</a><img src="https://media.giphy.com/media/LpDQMNgxejhJ6o15cR/giphy.gif" width="30"></bite Interested in Computational & Particle Physics <img src="https://media.giphy.com/media/physics/electron-orbit.gif" width="30"> 
 </em></p>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janna-ashham-a07976372/)](https://www.linkedin.com/in/janna-ashham-a07976372/)

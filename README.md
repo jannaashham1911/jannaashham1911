@@ -10,7 +10,7 @@ Interested in Computational & Particle Physics <img src="https://media.giphy.com
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-I am a third-year Physics major at Cairo University. I combine strong theoretical foundations with practical coding skills to solve complex problems in **Particle Physics** and **Simulation**.
+I am a fourth-year Physics major at Cairo University. I combine strong theoretical foundations with practical coding skills to solve complex problems in **Particle Physics** ,** Nuclear Physics** and **Simulation**.
 
 ```python
 class Physicist:
@@ -31,13 +31,26 @@ class Physicist:
             "Computational Physics",
             "Particle Physics",
             "High Energy Physics"
+            "Nuclear physics"
         ]
-        
+         
         # Experience
         self.training = {
             "Organization": "Egyptian Atomic Energy Authority",
             "Duration": "2 Weeks",
             "Topic": "Radiation Safety & Nuclear Instrumentation"
+
+            "Organization": "National institute of laser sciences (NILS)",
+            "Duration": "2 Weeks",
+            "Topic": "Laser science and Nanotechnology
+
+            "Organization": "Physics Research Institute - National Research Centre (NRC)",
+            "Duration": "2 Weeks",
+            "Topic": "Spectroscopy , Solid State Physics , Microscopy , Wave Physics"
+
+
+          
+
         }
 
     def current_mission(self):
